@@ -1,2 +1,2 @@
-console.log("1234");
-console.log("5678");
+console.log("4");
+console.log("5");

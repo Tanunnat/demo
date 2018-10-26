@@ -1,3 +1,3 @@
-console.log("ABCD");
-console.log("EFGH");
-console.log("IJKL");
+console.log("1");
+console.log("2");
+console.log("3");
